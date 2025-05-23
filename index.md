@@ -34,7 +34,7 @@ My favorite CS quote:
 ---
 
 ## Socials
-- [My Linked](https://www.linkedin.com/in/ethanbaluong/)
+- [My Linkedin](https://www.linkedin.com/in/ethanbaluong/)
 - [My GitHub Profile](https://github.com/ebluong005)
 
 ---
