@@ -26,9 +26,10 @@ My favorite CS quote:
 
 ### Tools I Use
 1. AWS
-2. Git & GitHub
-3. Gitlab
-4. Terraform
+2. Git
+3. GitHub
+4. Gitlab
+5. Terraform
 
 
 ---
